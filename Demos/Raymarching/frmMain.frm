@@ -1,7 +1,7 @@
 VERSION 5.00
 Begin VB.Form frmMain 
    BorderStyle     =   1  'Fixed Single
-   Caption         =   "Raymatching using Direct3D9 shaders"
+   Caption         =   "Raymarching using Direct3D9 shaders"
    ClientHeight    =   8085
    ClientLeft      =   45
    ClientTop       =   375
