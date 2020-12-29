@@ -1,2 +1,21 @@
 # Auto detect text files and perform LF normalization
+# Auto detect text files and perform LF normalization
 * text=auto
+
+* text eol=crlf
+
+*.tlb binary
+*.png binary
+*.jpg binary
+*.bmp binary
+*.ico binary
+*.Png binary
+*.exe binary
+*.dll binary
+*.frx binary
+*.exp binary
+*.lib binary
+*.pdb binary
+*.RES binary
+*.obj binary
+*.bin binary
